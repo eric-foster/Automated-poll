@@ -1,0 +1,25 @@
+To run this program, you will need to install the selenium, bs4, and time packages to your system.
+
+In command line for windows, install the following pips by copying and pasting the following:
+
+pip install selenium
+pip install bs4
+pip install time
+
+If you are also using chrome, you will need to do the following steps:
+
+1. Download the Chrome WebDriver from the official website: https://chromedriver.chromium.org/downloads
+
+2. Extract the downloaded ZIP file to a location on your computer, for example: C:\webdrivers
+
+3. Open the Start menu and search for "Environment Variables"
+
+4. Select "Edit the system environment variables"
+
+5. Click on the "Environment Variables" button
+
+6. In the "System Variables" section, scroll down and find the "Path" variable, then click "Edit"
+
+7. Click "New" and add the path to the directory where you extracted the Chrome WebDriver, for example: C:\webdrivers
+
+8. Click "OK" on all the windows to save the changes and close them
